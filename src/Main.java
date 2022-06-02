@@ -13,8 +13,8 @@ public class Main {
         int d = 5+15/3*2-8%3; //4.d. operation
 
         System.out.println(
-                "Hello,\n"+author+"\n2.The addition of 2 and 4 is: "+sum
-                +"\n3.The division of 73 by 4 is: "+div
+                "Hello,\n"+author+"\n2.The addition of "+x+" and "+y+" is: "+sum
+                +"\n3.The division of "+z+" by "+y+" is: "+div
                 +"\n4.a: "+a+"\n4.b "+b+"\n4.c "+c+"\n4.d "+d
                 +"\n\nhttps://github.com/LorandSa/QA27Lorand/blob/master/src/Main.java"
         );
